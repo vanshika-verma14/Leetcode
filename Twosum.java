@@ -10,7 +10,7 @@ class Twosum
             return new int[]{i,j};
          }
         } 
-        return null;
+        
 }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
