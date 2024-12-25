@@ -2,8 +2,21 @@ import java.util.Arrays;
 public class L_1929_concatenation_of_array{
  public static void main(String[] args) {
     int arr[] = {1,3,2,1};
-    System.out.println(Arrays.toString(getConcatenation3(arr)) );
+    System.out.println(Arrays.toString(getConcatenation1(arr)) );
  }   
+//best
+static int[] getConcatenation1(int[] nums) {
+   int n = nums.length;
+   int[] arr = new int[2*n];
+   for (int i = 0; i < n; i++) {    
+         arr[i] = nums[i];
+         arr[i+n] = nums[i];
+   }
+   
+   return arr;
+
+}
+
 
  //both 2 and 3 have same time
  static int[] getConcatenation3(int[] nums) {
@@ -13,7 +26,7 @@ public class L_1929_concatenation_of_array{
           arr[i] = nums[i];
           arr[i+len] = nums[i];
     }
-    System.gc();
+    
     return arr;
 
  }
@@ -31,22 +44,6 @@ public class L_1929_concatenation_of_array{
     {
         arr[i] = nums[i-orlen];
         i++;
-    }
-    System.gc();
-    return arr;
- }
-
- 
-  //slower less efficient
- static int[] getConcatenation(int[] nums) {
-    int orlen = nums.length;
-    int len = 2 * nums.length;
-    int[] arr = new int[len];
-    for (int i = 0; i < len; i++) {
-        if(i < len/2)     
-          arr[i] = nums[i];
-        else if (i >= len/2)
-          arr[i] = nums[i-orlen];
     }
     return arr;
 
