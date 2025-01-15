@@ -1,3 +1,5 @@
-    else if( words[i].equalsIgnoreCase(words[j].substring(jlen-ilen )))
-               { suf++;
-                System.out.println("suf" + suf);}
+ temp += s.charAt(start);
+        rev += s.charAt(end);
+        start++;
+        end--;
+        i++;
