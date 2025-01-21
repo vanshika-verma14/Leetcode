@@ -24,7 +24,8 @@ public class L_125_valid_palindrone {
         System.out.println(rev);   
 
        
-    
+
+        
         // s =  s.toLowerCase();
         // int len = s.length();
         // String rev = "";
