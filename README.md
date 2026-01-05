@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1390-four-divisors](https://github.com/vanshika-verma14/Leetcode/tree/master/1390-four-divisors) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vanshika-verma14/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/vanshika-verma14/Leetcode/tree/master/1975-maximum-matrix-sum) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vanshika-verma14/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/vanshika-verma14/Leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/vanshika-verma14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Matrix
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/vanshika-verma14/Leetcode/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
