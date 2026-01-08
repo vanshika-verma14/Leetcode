@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshika-verma14/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0058-length-of-last-word](https://github.com/vanshika-verma14/Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/vanshika-verma14/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vanshika-verma14/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Dynamic Programming
