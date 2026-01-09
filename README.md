@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vanshika-verma14/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vanshika-verma14/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/vanshika-verma14/Leetcode/tree/master/0507-perfect-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshika-verma14/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/vanshika-verma14/Leetcode/tree/master/1390-four-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanshika-verma14/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vanshika-verma14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshika-verma14/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshika-verma14/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/vanshika-verma14/Leetcode/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vanshika-verma14/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/vanshika-verma14/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
