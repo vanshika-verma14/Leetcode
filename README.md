@@ -58,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vanshika-verma14/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vanshika-verma14/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vanshika-verma14/Leetcode/tree/master/0242-valid-anagram) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/vanshika-verma14/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vanshika-verma14/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/vanshika-verma14/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/vanshika-verma14/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/vanshika-verma14/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vanshika-verma14/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
