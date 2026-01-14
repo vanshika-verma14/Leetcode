@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/vanshika-verma14/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanshika-verma14/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3453-separate-squares-i](https://github.com/vanshika-verma14/Leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3454-separate-squares-ii) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshika-verma14/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3453-separate-squares-i](https://github.com/vanshika-verma14/Leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3454-separate-squares-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -146,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/vanshika-verma14/Leetcode/tree/master/0085-maximal-rectangle) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
