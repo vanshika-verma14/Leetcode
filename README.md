@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vanshika-verma14/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/vanshika-verma14/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanshika-verma14/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/vanshika-verma14/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3453-separate-squares-i](https://github.com/vanshika-verma14/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3454-separate-squares-ii) |
 ## String
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vanshika-verma14/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshika-verma14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/vanshika-verma14/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Matrix
 |  |
 | ------- |
