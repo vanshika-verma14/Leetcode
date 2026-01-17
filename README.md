@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshika-verma14/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/vanshika-verma14/Leetcode/tree/master/1390-four-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanshika-verma14/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vanshika-verma14/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/vanshika-verma14/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanshika-verma14/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/vanshika-verma14/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vanshika-verma14/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3453-separate-squares-i](https://github.com/vanshika-verma14/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3454-separate-squares-ii) |
 ## String
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3454-separate-squares-ii) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vanshika-verma14/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
