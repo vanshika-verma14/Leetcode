@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vanshika-verma14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vanshika-verma14/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/vanshika-verma14/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vanshika-verma14/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/vanshika-verma14/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## String
 |  |
 | ------- |
@@ -171,4 +174,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vanshika-verma14/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Simulation
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
