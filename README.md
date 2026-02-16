@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/vanshika-verma14/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/vanshika-verma14/Leetcode/tree/master/0268-missing-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/vanshika-verma14/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -218,5 +219,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/vanshika-verma14/Leetcode/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/vanshika-verma14/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
