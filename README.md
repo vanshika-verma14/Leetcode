@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vanshika-verma14/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vanshika-verma14/Leetcode/tree/master/0242-valid-anagram) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/vanshika-verma14/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/vanshika-verma14/Leetcode/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vanshika-verma14/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vanshika-verma14/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3714-longest-balanced-substring-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vanshika-verma14/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshika-verma14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0761-special-binary-string](https://github.com/vanshika-verma14/Leetcode/tree/master/0761-special-binary-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/vanshika-verma14/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Matrix
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/vanshika-verma14/Leetcode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/vanshika-verma14/Leetcode/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/vanshika-verma14/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
