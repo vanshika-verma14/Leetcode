@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vanshika-verma14/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vanshika-verma14/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/vanshika-verma14/Leetcode/tree/master/0507-perfect-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vanshika-verma14/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshika-verma14/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/vanshika-verma14/Leetcode/tree/master/1390-four-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanshika-verma14/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/vanshika-verma14/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/vanshika-verma14/Leetcode/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/vanshika-verma14/Leetcode/tree/master/0401-binary-watch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vanshika-verma14/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/vanshika-verma14/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Number Theory
