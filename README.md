@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vanshika-verma14/Leetcode/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/vanshika-verma14/Leetcode/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vanshika-verma14/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/vanshika-verma14/Leetcode/tree/master/0868-binary-gap) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/vanshika-verma14/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Number Theory
