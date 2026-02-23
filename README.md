@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vanshika-verma14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vanshika-verma14/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vanshika-verma14/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/vanshika-verma14/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vanshika-verma14/Leetcode/tree/master/0242-valid-anagram) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/vanshika-verma14/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/vanshika-verma14/Leetcode/tree/master/0761-special-binary-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vanshika-verma14/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vanshika-verma14/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vanshika-verma14/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3714-longest-balanced-substring-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/vanshika-verma14/Leetcode/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vanshika-verma14/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/vanshika-verma14/Leetcode/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vanshika-verma14/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/vanshika-verma14/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/vanshika-verma14/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Number Theory
@@ -232,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/vanshika-verma14/Leetcode/tree/master/0401-binary-watch) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vanshika-verma14/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vanshika-verma14/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
