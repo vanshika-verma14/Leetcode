@@ -10,7 +10,7 @@
 <strong>Output:</strong> 5
 <strong>Explanation:</strong> The last word is &quot;World&quot; with length 5.
 </pre>
-
+ 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
