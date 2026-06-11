@@ -6,7 +6,6 @@
 
 <p>If it is <em>not possible</em> to find such a value for <code>ans[i]</code> that satisfies the <strong>condition</strong>, then set <code>ans[i] = -1</code>.</p>
 
-
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
