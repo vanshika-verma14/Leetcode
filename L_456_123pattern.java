@@ -15,4 +15,4 @@ public class L_456_123pattern {
             return ans;
         }
 }
-i < j < k and nums[i] < nums[k] < nums[j]
+i < j < k and nums[i] < nums[k] < nums[j].
