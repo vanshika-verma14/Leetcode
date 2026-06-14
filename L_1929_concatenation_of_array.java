@@ -46,6 +46,5 @@ static int[] getConcatenation1(int[] nums) {
         i++;
     }
     return arr;
-
  }
 }
