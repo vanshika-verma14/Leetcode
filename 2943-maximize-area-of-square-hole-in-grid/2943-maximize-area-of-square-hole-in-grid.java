@@ -2,7 +2,6 @@ class Solution {
     public int maximizeSquareHoleArea(int n, int m, int[] hBars, int[] vBars) {
         int maxConsecutiveHBars = 1;
         int maxConsecutiveVBars = 1;
-
         Arrays.sort(hBars);
         Arrays.sort(vBars);
 
