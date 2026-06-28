@@ -35,5 +35,4 @@ public class L_34_first_last_position {
         }
     return ans;
     }
-
 }
