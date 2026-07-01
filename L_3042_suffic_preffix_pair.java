@@ -27,6 +27,6 @@ public class L_3042_suffic_preffix_pair {
                cnt++;
             }
     }
-    return cnt;
-}
+        return cnt;
+    }
 }
