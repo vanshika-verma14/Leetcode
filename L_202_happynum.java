@@ -22,4 +22,3 @@ public class L_202_happynum {
             return false;   
         }
  }
-
