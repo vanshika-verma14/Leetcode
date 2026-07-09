@@ -26,6 +26,6 @@ class L_1295_even_digit {
     if (fl%2 == 0)
     return 1;
     else
-    return 0;
-}
+        return 0;
+    }
 }
