@@ -7,7 +7,6 @@ class Solution {
             int r = g%s;
             g=s;
             s=r;
-            
         }
         return g;
     }
