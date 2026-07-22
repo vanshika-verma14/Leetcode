@@ -12,5 +12,4 @@ public class L_2185_Find_number_with_preffix {
         }
         return cnt;
      }
-
 }
